@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="19e9728a-3cd0-4ff2-a40b-926899501e19" 
+        solutionId="19e9728a-3cd0-4ff2-a40b-926899501e19" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="DemoUsersHunter"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="4fe08118-6ee3-47c5-a937-163847ab8f35" />
+  </features>
+</package>
